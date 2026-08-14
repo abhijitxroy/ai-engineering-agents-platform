@@ -140,13 +140,88 @@ Consider:
 
 ---
 
-# Answer Key
+## Q10. AI Coding Assistant Scenario
+
+A development team wants to introduce an AI coding assistant such as Cursor.
+
+What capabilities can it provide?
+
+Expected thinking:
+
+- Code understanding
+- Code generation
+- Code modification
+- Refactoring assistance
+- Debugging assistance
+- Documentation generation
+- Codebase exploration
+- Developer productivity improvements
+- Agentic development workflows
+
+---
+
+## Q11. Cursor + MCP Scenario
+
+A team wants to allow an AI coding assistant to interact with engineering tools and external systems.
+
+How can MCP help?
+
+Expected thinking:
+
+- Cursor can act as an MCP client
+- MCP servers expose tools and capabilities
+- External engineering systems can be accessed through MCP
+- Tools can extend AI-assisted development workflows
+- Authentication and authorization must be configured appropriately
+
+Example:
+
+Cursor
+
+↓
+
+MCP Client
+
+↓
+
+MCP Server
+
+↓
+
+Engineering Tools / External Systems
+
+---
+
+## Q12. AI Coding Assistant Security Scenario
+
+A company wants to allow an AI coding assistant to access repositories and engineering tools.
+
+What security considerations should be addressed?
+
+Expected thinking:
+
+- Authentication
+- Authorization
+- Credential management
+- Secret protection
+- Tool permissions
+- Repository access
+- Command execution controls
+- Human approval
+- Auditability
+- Security boundaries
+
+AI-generated changes and tool actions should be appropriately reviewed and controlled before production use.
+
+---
+
+## Answer Key
 
 To be completed after assessment execution.
 
 ---
 
-# Score Tracking
+## Score Tracking
 
 | Topic | Score | Status |
 |---|---|---|
@@ -159,7 +234,7 @@ To be completed after assessment execution.
 
 ---
 
-# Quick Revision
+## Quick Revision
 
 DevEx
 
@@ -185,6 +260,6 @@ Developer Satisfaction
 
 ---
 
-# Next Assessment
+## Next Assessment
 
 Next: `10-assessment/11-ai-platform-engineering/idp.md`

@@ -58,13 +58,18 @@ Future additions:
 - [x] Engineering knowledge platforms
 - [x] Self-service engineering capabilities
 - [x] AI governance concepts
+- [x] AI coding assistants
+- [x] Agentic developer workflows
+- [x] AI-assisted DevOps workflows
 
 Future additions:
 
 - [ ] Advanced AI developer platforms
 - [ ] Enterprise AI platform patterns
 - [ ] AI-powered engineering ecosystems
-
+- [ ] Advanced AI coding assistant workflows
+- [ ] Enterprise AI coding assistant patterns
+- [ ] AI-assisted DevOps automation
 
 ## Production AI Engineering
 

@@ -127,6 +127,9 @@ Topics:
 - Engineering knowledge platforms
 - Self-service engineering capabilities
 - AI governance concepts
+- AI coding assistants
+- Agentic developer workflows
+- AI-assisted DevOps workflows
 
 ---
 

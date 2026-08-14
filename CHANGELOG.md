@@ -6,6 +6,39 @@ Repository evolution focuses on AI Engineering, LLM systems, AI applications, ag
 
 ---
 
+## [v2.2.0] - AI Coding Assistants and Cursor
+
+### AI Coding Assistants Added
+
+Introduced a structured AI Coding Assistants layer under AI Platform Engineering focused on AI-assisted software development and developer productivity.
+
+Added coverage for:
+
+- AI coding assistant fundamentals
+- Code understanding and generation
+- Code modification and refactoring assistance
+- Debugging and documentation assistance
+- Agentic development workflows
+- Cursor fundamentals
+- Cursor + MCP integration
+- Cursor + DevOps workflows
+- AI coding assistant security considerations
+
+---
+
+### Assessment Improvements
+
+Updated:
+
+- AI Platform Engineering assessment
+- AI coding assistant assessment scenarios
+- Cursor and MCP scenarios
+- AI coding assistant security considerations
+
+Expanded the repository to include practical AI-assisted development tooling while maintaining the broader AI Platform Engineering and DevEx focus.
+
+---
+
 ## [v2.1.0] - Production AI Engineering Layer
 
 ### Production AI Engineering Added

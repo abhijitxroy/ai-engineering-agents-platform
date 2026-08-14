@@ -65,6 +65,33 @@ AI can support software delivery workflows by providing:
 
 ---
 
+## AI + Coding Assistants
+
+AI-powered coding assistants improve software development by providing intelligent assistance within the developer workflow.
+
+Examples of capabilities include:
+
+- Code understanding
+- Code generation
+- Code modification
+- Refactoring assistance
+- Debugging assistance
+- Documentation generation
+- Codebase exploration
+- Agentic development workflows
+- Integration with external engineering tools
+
+Examples of AI coding assistants include:
+
+- Cursor
+- GitHub Copilot
+- Claude Code
+- Other AI-assisted development tools
+
+AI coding assistants can also integrate with external engineering systems through protocols such as MCP.
+
+---
+
 ## Engineering Perspective
 
 AI Platform Engineering combines:
